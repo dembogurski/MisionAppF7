@@ -1,0 +1,32 @@
+page-about {
+
+}
+.container{    
+    width:100%;   
+    margin-top: 14px;
+}
+.about_title{
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: monospace;
+    padding-bottom: 8px
+}
+.avatar{
+    height: 60px;
+    width: 60px;
+    border-radius: 20px;
+    background-size: 60px 60px;
+    margin: 3px 0 3px 0;     
+    background-position: center center;
+    vertical-align: bottom;
+}
+.about_name{
+   font-family: monospace;
+   font-weight: bolder;
+   font-size: 16px;
+   padding-left:4px
+}
+.about_mail{
+    color:lightslategray;
+    padding-left:4px    
+}
